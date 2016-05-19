@@ -30,9 +30,9 @@ force-https: True
 
 lang: "es"
 author: "Alhot"
-title: "{ Alhot }"
-description: ""
-keywords: "google"
+title: "Alhot"
+description: "En este espacio puedes conocer un poco mas de mi"
+keywords: "google te amo"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Bienvenido a mi espacio"
+  - text: "No dudes en echar un vistazo!"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "albert@gmail.com"
+email: "albertupapa@gmail.com"
 
 ################
 # Author Blurb #
@@ -148,8 +148,7 @@ social:
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+
   - title: "rss"
     url: "/feed.xml"
 
